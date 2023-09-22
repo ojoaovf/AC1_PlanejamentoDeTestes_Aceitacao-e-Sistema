@@ -10,7 +10,7 @@
 
 # Sobre
 <p>Este é o primeiro projeto da AC1 (Avaliação Continuada 1) da disciplina de Qualidade e Testes de Software, Facens.</p>
-<p>O objetivo deste projeto é criar uma calculadora simples em Java que inclui operações de soma, subtração, multiplicação e divisão.</p>
+<p>O objetivo deste projeto é criar uma calculadora simples em Java que inclui através de métodos as operações de soma, subtração, multiplicação e divisão.</p>
 
 # Tecnologias
 
