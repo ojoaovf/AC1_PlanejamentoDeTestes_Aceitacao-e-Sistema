@@ -15,7 +15,7 @@ public class Calculadora {
 	public double multiplicar(int a, int b) {
 		return a * b;
 	}
-
+	
 	// Método para realizar a divisão de dois números
 	public String dividir(int a, int b) {
 		if (b == 0) {
