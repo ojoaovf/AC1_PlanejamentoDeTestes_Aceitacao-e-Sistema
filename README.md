@@ -1,4 +1,5 @@
 <h1 align="center">AC1 - Planejamento de Testes - Aceitacao e Sistema</h1>
+<h2 align="center">Calculadora</h2>
 
 <p align="center">
   • <a href="#sobre">Sobre</a> •
