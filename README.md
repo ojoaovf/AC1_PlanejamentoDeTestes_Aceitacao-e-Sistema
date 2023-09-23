@@ -25,7 +25,7 @@
 # Imagens
 
 ![Classe Calculadora](imgs/classCalculadora.png)
-![Classe TestesCalculadora](imgs/classeTestesCalculadora.png)
+![Classe TestesCalculadora](imgs/classTestesCalculadora.png)
 
 
 # Autor
