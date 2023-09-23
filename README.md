@@ -24,7 +24,7 @@
 
 # Imagens
 
-![Classe Calculadora](imgs/classeCalculadora.png)
+![Classe Calculadora](imgs/classCalculadora.png)
 ![Classe TestesCalculadora](imgs/classeTestesCalculadora.png)
 
 
