@@ -5,8 +5,7 @@ public class TestesCalculadora {
         Calculadora calculadora = new Calculadora();
 
         // Testes de soma
-        System.out.println("Testes de somar:");
-
+        System.out.println("Testes de soma:");
         System.out.println("1. Positivo por Positivo: 10 + 10 = " + calculadora.somar(10, 10));
         System.out.println("2. Positivo por Negativo: 10 + (-10) = " + calculadora.somar(10, -10));
         System.out.println("3. Negativo por Negativo: (-10) + (-10) = " + calculadora.somar(-10, -10));
