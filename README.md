@@ -26,8 +26,8 @@
 
 # Imagens
 
-![Classe Calculadora](https://github.com/ojoaovf/AC1_PlanejamentoDeTestes_Aceitacao-e-Sistema/blob/00b69fd4e64e9395b2c8fa3a18f774ba096ec764/imgs/classeCalculadora.png)
-![Classe CalculadoraJUnitTest](https://github.com/ojoaovf/AC1_PlanejamentoDeTestes_Aceitacao-e-Sistema/blob/00b69fd4e64e9395b2c8fa3a18f774ba096ec764/imgs/classeCalculadoraJUnitTest.png)
+![Classe Calculadora](https://github.com/ojoaovf/AC1_PlanejamentoDeTestes_Aceitacao-e-Sistema/blob/b1a44a66fa772d701c1f7e424109df2ba70389b9/imgs/classCalculadora.png)
+![Classe CalculadoraJUnitTest](https://github.com/ojoaovf/AC1_PlanejamentoDeTestes_Aceitacao-e-Sistema/blob/b1a44a66fa772d701c1f7e424109df2ba70389b9/imgs/classCalculadoraJUnitTest.png)
 
 # Autor
 <p> JOÃO VICTOR 👋 <a href="https://www.linkedin.com/in/ojoaovictor/"> Entre em Contato!</a> </p>
