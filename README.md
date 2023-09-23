@@ -5,6 +5,7 @@
   • <a href="#sobre">Sobre</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#pré-requisitos">Pré-requisitos</a> •
+  <a href="#imagens">Imagens</a> •
   <a href="#autor">Autor</a>
 </p>
 
@@ -20,6 +21,12 @@
 # Pré-requisitos
 <p>• <a href="https://www.oracle.com/java/technologies/javase-downloads.html">Java Development Kit (JDK)</a></p>
 <p>• Além disto é bom ter um editor para trabalhar com o código como <a href="https://www.eclipse.org/downloads/">Eclipse </a></p>
+
+# Imagens
+
+![Classe Calculadora](imgs/classeCalculadora.png)
+![Classe TestesCalculadora](imgs/classeTestesCalculadora.png)
+
 
 # Autor
 <p> JOÃO VICTOR 👋 <a href="https://www.linkedin.com/in/ojoaovictor/"> Entre em Contato!</a> </p>
