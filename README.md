@@ -1,11 +1,10 @@
 <h1 align="center">AC1 - Planejamento de Testes - Aceitacao e Sistema</h1>
-<h2 align="center">Calculadora JUnit Test</h2>
+<h2 align="center">Javadoc Adicionado</h2>
 
 <p align="center">
   • <a href="#sobre">Sobre</a> •
   <a href="#tecnologias">Tecnologias</a> •
   <a href="#pré-requisitos">Pré-requisitos</a> •
-  <a href="#imagens">Imagens</a> •  
   <a href="#autor">Autor</a>
 </p>
 
@@ -21,13 +20,7 @@
 
 # Pré-requisitos
 <p>• <a href="https://www.oracle.com/java/technologies/javase-downloads.html">Java Development Kit (JDK)</a></p>
-<p>• <a href="https://junit.org/junit5/">JUnit5</a></p>
 <p>• Além disto é bom ter um editor para trabalhar com o código como <a href="https://www.eclipse.org/downloads/">Eclipse </a></p>
-
-# Imagens
-
-![Classe Calculadora](https://github.com/ojoaovf/AC1_PlanejamentoDeTestes_Aceitacao-e-Sistema/blob/69a502ebac809b282d882dd1acb9de2aa69ebc40/imgs/classCalculadora.png)
-![Classe CalculadoraJUnitTest](https://github.com/ojoaovf/AC1_PlanejamentoDeTestes_Aceitacao-e-Sistema/blob/de5ba38862a42c1f9bc93bf495fb9e11511270aa/imgs/classCalculadoraJUnitTest.png)
 
 # Autor
 <p> JOÃO VICTOR 👋 <a href="https://www.linkedin.com/in/ojoaovictor/"> Entre em Contato!</a> </p>
